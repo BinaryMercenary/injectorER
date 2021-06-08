@@ -11,3 +11,5 @@ Had a bad experience with a set of upgraded injectors so NOTHING is going in my 
 ![for blockheads ONLY](/blockDiagram.png)
 
 IF you have OCD && trust issues, you can build this too! (Code not warrantied for fitness or any specific use).
+
+MOVIE of the setup in action: https://www.youtube.com/watch?v=NkMPEaUP7hI
