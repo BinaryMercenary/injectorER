@@ -1,4 +1,6 @@
 # injectorER
+3-min video of the 2024 expanded build: https://www.youtube.com/shorts/fmQIpRvXrHs 
+
 Injector test bed with basic/pseudo pwm duty cycle algo to test flow and flow rate of injectors (because turbo)
 
 Had a bad experience with a set of upgraded injectors so NOTHING is going in my motor without full testing.
